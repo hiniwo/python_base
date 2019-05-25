@@ -7,7 +7,7 @@ var1 = 1
 
 var2 = 9
 
-var3 = 100
+var3 = 1000
 
 print math.log10(var3)
 
